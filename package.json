@@ -1,0 +1,16 @@
+{
+  "name": "absensipbkk",
+  "version": "1.0.0",
+  "description": "Final Project PBKK",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "beryl",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.0",
+    "mongoose": "^5.5.9"
+  }
+}
